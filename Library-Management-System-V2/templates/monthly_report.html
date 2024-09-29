@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monthly Report</title>
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+          padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div style="margin-top: 50px;"><h1>Monthly Activity Report</h1></div>
+        <div style="margin-top: 40px;">
+            <div><h2>Issued Books</h2></div>
+            <div>
+                {% if issued_books|length > 0 %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Section</th>
+                            <th>Author's Name</th>
+                            <th>Issued Date</th>
+                            <th>Returned Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for book in issued_books %}
+                        <tr>
+                            <td>{{ book.ebook_issue.title }}</td>
+                            <td>{{ book.ebook_issue.section.title }}</td>
+                            <td>{{ book.ebook_issue.authors_name }}</td>
+                            <td>{{ book.issue_date }}</td>
+                            <td>{{ book.return_date }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% else %}
+                <p>No eBook is issued in this Month</p>
+                {% endif %}
+            </div>
+        </div>
+        <div style="margin-top: 40px;">
+            <div><h2>Returned Books</h2></div>
+            <div>
+                {% if returned_books|length > 0 %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Section</th>
+                            <th>Author's Name</th>
+                            <th>Issued Date</th>
+                            <th>Returned Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for book in returned_books %}
+                        <tr>
+                            <td>{{ book.ebook_return.title }}</td>
+                            <td>{{ book.ebook_return.section.title }}</td>
+                            <td>{{ book.ebook_return.authors_name }}</td>
+                            <td>{{ book.issue_date }}</td>
+                            <td>{{ book.return_date }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% else %}
+                <p>No eBook is returned in this Month</p>
+                {% endif %}
+            </div>
+        </div>
+        <div  style="margin-top: 40px; margin-bottom: 70px;">
+            <div><h2>Purchased Books</h2></div>
+            <div>
+                {% if purchased_books|length > 0 %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Section</th>
+                            <th>Author's Name</th>
+                            <th>Purchased Date</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for book in purchased_books %}
+                        <tr>
+                            <td>{{ book.ebook_purchase.title }}</td>
+                            <td>{{ book.ebook_purchase.section.title }}</td>
+                            <td>{{ book.ebook_purchase.authors_name }}</td>
+                            <td>{{ book.purchase_date }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                {% else %}
+                <p>No eBook is purchased in this Month</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>

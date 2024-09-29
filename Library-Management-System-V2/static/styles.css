@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to left, #b1dbde, #79d3da,  #4ad9e9);
+}
+
+.bg-body-tertiary {
+    background-color: #90a3e3 !important;
+}
+
+.dropdown-menu {
+    --bs-dropdown-bg: #ac88ff;
+}
+
+.register-style {
+    width: auto; 
+    max-width: 450px; 
+    margin: auto; 
+    margin-bottom: 50px; 
+    background-color: antiquewhite; 
+    padding: 30px;
+    border: 2px solid gray; 
+    border-radius: 20px;
+}
+
+.dash-style {
+    width: auto; 
+    max-width: 90vw; 
+    margin: auto; 
+    margin-bottom: 50px; 
+    background-color: antiquewhite; 
+    padding: 30px;
+    border: 2px solid gray; 
+    border-radius: 20px;
+}
+
+.search-style {
+    width: auto; 
+    max-width: 450px; 
+    margin: auto; 
+    margin-bottom: 50px; 
+    padding: 30px;
+}
+
+.search-box {
+    min-width: 90px; 
+    border: solid black 1px;
+}
+
+.font-color-1 {
+    color: #c71236;
+}

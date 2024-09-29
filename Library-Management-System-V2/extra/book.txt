@@ -1,0 +1,49 @@
+Mathematics for Degree Students,Mathematics,for B.Sc. First year students,Mittal P.K.
+A TEXT BOOK OF B.SC. MATHEMATICS VOL-I,Mathematics,As per New Common Core Syllabus for B.Sc. 1st year of the universities in Andhra Pradesh,B.V.S.S. SHRMA,N.K. MURTHY,S.S. SASTRY
+A TEXT BOOK OF B.SC. MATHEMATICS VOL-II,Mathematics,As per New Common Core Syllabus for B.Sc. 2nd year of the universities in Andhra Pradesh,B.V.S.S. SHRMA,N.K. MURTHY,S.S. SASTRY
+A TEXT BOOK OF B.SC. MATHEMATICS VOL III,Mathematics,As per New Common Core Syllabus for B.Sc. 3rd year Students of the Universities in Andhra Pradesh,B.V.S.S. SHRMA,N.K. MURTHY,S.S. SASTRY 
+FUNDAMENTAL ENGINEERING MATHEMATICS,Mathematics,This book comprises a total of 24 chapters on the topics of Integral Calculus, Differential Calculus of single variables, Multivariate Calculus and Linear Algebra,Dr. T.K. Kar,Dr. S. Jana 
+
+
+Python Programming for School Students,Programming,The book introduces the power of Python to school children,M.Verma 
+Object Oriented Programming with JAVA,Programming, To understand levels of the Undergraduate students,Dr. P. Gupta 
+Programming in C,Programming,For Semester 2 B.Tech students of KTU,V. Robinson, K.S. Chandran 
+JAVA PROGRAMMING,Programming,MCA Semester 1 - CBCS Pattern,Satyavan M. Kunjir,Mrs. Madhuri Khadtare,Mrs. Malati V. Tribhuwan (Nikam)
+C++ Programming Language,Programming,This book allows programmers to express ideas more clearly,S. Bjarne
+C C++ C# Programming Concepts,Programming,Books for beginners in programming,Dasgupta, Chakrabarti, Banerjee, Bhaduri
+
+
+
+Biology for Medical Entrance,Biology,For students who are preparing for careers in medical and health,S.K. Srivastava
+
+NCERT Based Biology for Pre - Medical Exams,Biology,Complete syllabus of class 11th and 12th as per NEET and NTA,K C Yaduvanshi 
+
+Biology for NEET Volume-1 (Objective Series),Biology,Biology for NEET,S.C. Experts
+
+Fundamentals of Biology,Biology,Textbook and Practice Book for CBSC Class 12 and Medical Entrance,W. Editorial 
+
+Textbook of Biochemistry for Medical Students,Biology,Advanced knowledge in the molecular biology,DM Vasudevan,Sreekumari S,K.Vaidyanathan
+
+Hemostasis and Thrombosis: Methods and Protocols,Biology,Field of hemostasis and thrombosis diagnostics,E.J. Favaloro,G. Lippi
+
+Textbook Of Engineering Chemistry,Chemistry,For BE B.Tech BSc MSc M.Tech and other competitive courses,SS Dara,SS Umare 
+
+Textbook of Engineering Chemistry,Chemistry.for first and second semester students of Engineering,Dr, S.S. DARA,Dr. S.S. UMARE
+
+Chemistry for Engineers,Chemistry,for B.E. And B.Tech. Students of all branches of engineering and technology,A. Mallick 
+
+M. Sc Chemistry (ORGANIC| FINAL),Chemistry,A Complete Handbook (10 Years Solved Papers),Urvashi Publishers Experts
+
+ADVANCED PHYSICAL CHEMISTRY,Chemistry,For M.Sc.-1st YEAR,G.Gurtu
+
+Textbook of Medicinal Chemistry,Chemistry,For organic medicinal compounds and their discovery, M. N. Noolvi,A. Jain,H.M. Patel
+
+A TEXTBOOK ON MECHANICS,Physics,For BSc. First Semister (Hons.),Dr. P. CH. KALITA
+
+Introduction to Medical Physics,Physics,Series in Medical Physics and Biomedical Engineering, C. Lewis,R. Padovani,S. Tabakov
+
+English Mechanics & Oscillations,Physics,Book B.Sc First Sem UOR by Thakur Publication,Prof. N.K. Agrawal
+
+Mathematical Physics & Newtonian Mechanics (Physics) Book for UP B.Sc 1st Semester,Physics,Book for well-illustrated elucidate concepts effectively,Dr. R. Pathak,Dr. A. Srivastava
+
+Engineering Physics,Physics,For 1 year BE classes,SHIVAKUMAR G K
